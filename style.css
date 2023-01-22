@@ -1,0 +1,57 @@
+body{
+    background: url("bg.jpg");
+    background-size: cover;
+}
+button{
+    border-radius: 5px;
+  background: #ffffff;
+  border: none;
+  box-shadow: 0px 0px 10px #00000069;
+  height: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+form{
+    background-color: #ffffff;
+    width: 500px;
+    margin:auto;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000069;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    color: #1a8d59;
+}
+img{
+    width: 60%;
+    display: block;
+    margin: auto;
+    box-shadow: inset 0px 0px 20px gray;
+    border-radius: 500px;
+}
+p{
+    box-shadow: 0px 0px 20px #00000069;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 12020220202202px;
+}
+input{
+    display:block;
+    text-align: center;
+    outline: none;
+    margin: auto;
+    height: 60px;
+    border: none;
+    width: 60px;
+    box-shadow: 0px 0px 20px #00000069;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h6{
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+    color: orange;
+    font-size: 18px;
+}
